@@ -17,10 +17,7 @@ O atendimento possui padrão de excelência e agilidade, garantindo qualidade e 
 </body>
 </html>
 
-body {
-    background-color: #c4ff56;
-    
-    }
+body {background-color: #c4ff56;}
     
     header{
     background-color: #56ff89;
