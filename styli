@@ -16,8 +16,10 @@ Fundada em 2019, a super Barbearia Alura já é super destaque na cidade e conqu
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 </body>
 </html>
-
-body {background-color: #c4ff56;}
+body {
+    background-color: #c4ff56;
+    
+    }
     
     header{
     background-color: #56ff89;
